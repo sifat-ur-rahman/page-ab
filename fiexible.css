@@ -1,0 +1,23 @@
+<style>
+
+.p1w{
+    color: rgb(0, 113, 139);
+    font-weight: 900;
+    display: block;
+}
+.blog{
+    background-color: rgb(229, 195, 151);
+    border: 8px solid greenyellow;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.b_t{
+    text-align: center;
+    color: rgb(147, 3, 147);
+}
+.blog h4{
+    text-align: justify;
+}
+</style>
